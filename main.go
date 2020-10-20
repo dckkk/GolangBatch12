@@ -17,7 +17,6 @@ func main() {
 		},
 	}
 	profile.Alamat.Kelurahan = "Rawamangun"
-	profile.Nama = "Dicky Pratama"
 	fmt.Println(profile)
 	fmt.Println(uuid)
 }
